@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands, dyn
+import os
 
 bot = dyn.Bot(command_prefix="!")
 
